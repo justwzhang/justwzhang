@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Justin Zhang
 - 👀 I’m interested in archery, speed cubing, and video games
-- 🌱 I’m currently studying at Stony Brook University 
+- 🏫 I’m currently studying at Stony Brook University 
+- 📚 I'm pursuing a bachelors of science in Computer Science and Applied Math
+- 📖 I will be pursuing a masters of science in Computer Science
 - 📫 How to reach me : Email - justin.zhang.1@stonybrook.edu
 
 <!---
