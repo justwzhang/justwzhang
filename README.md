@@ -58,8 +58,11 @@
 
 
 ## :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=justwzhang&theme=shadow-orange)](https://git.io/streak-stats) <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justwzhang&layout=compact&theme=shadow-orange)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=justwzhang&theme=slateorange&hide_border=false" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justwzhang&theme=slateorange&show_icons=true&hide_border=false&layout=compact" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justwzhang&theme=slateorange&show_icons=true&hide_border=false&count_private=true" align = "center"/>
+</p>
 
 
 
