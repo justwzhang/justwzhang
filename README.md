@@ -61,7 +61,7 @@
 <p align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=justwzhang&theme=slateorange&hide_border=false" align = "center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justwzhang&theme=slateorange&show_icons=true&hide_border=false&layout=compact" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justwzhang&theme=slateorange&show_icons=true&hide_border=false&count_private=true" align = "center"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justwzhang&theme=slateorange&show_icons=true&hide_border=false&count_private=true" align = "center"/> -->
 </p>
 
 
